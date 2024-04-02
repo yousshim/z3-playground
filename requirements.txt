@@ -1,1 +1,4 @@
+attrs==23.2.0
+hypothesis==6.100.0
+sortedcontainers==2.4.0
 z3-solver==4.13.0.0
